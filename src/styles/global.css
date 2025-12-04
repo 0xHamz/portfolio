@@ -1,0 +1,9 @@
+/* Global CSS, Tailwind via CDN compiler sudah aktif */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom style */
+html {
+    scroll-behavior: smooth;
+}
