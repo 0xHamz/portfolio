@@ -9,7 +9,7 @@ const projects = [
     tech: ["Laravel", "Tailwind", "PostgreSQL"],
     image: "/p3.jpg",
     github: "https://github.com/username/ecommerce-ui",
-    demo: "https://ecommerce.vercel.app",
+    demo: "https://ibb.co.com/sJsyLzcP",
   },
   {
     title: "IoT Monitoring Dashboard",
@@ -25,7 +25,7 @@ const projects = [
     tech: ["React", "Tailwind", "Vite"],
     image: "/p2.jpg",
     github: "https://github.com/username/portfolio",
-    demo: "https://portfolio.vercel.app",
+    demo: "https://portfolio-577c.vercel.app/",
   },
 ];
 
