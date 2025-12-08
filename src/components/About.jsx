@@ -48,7 +48,7 @@ export default function About() {
 
               {/* Gradient Ring Glow lebih tegas */}
               <div className="absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2">
-                <div className="w-80 h-[32rem] md:w-[24rem] md:h-[34rem] 
+                <div className="w-80 h-[24rem] md:w-[22rem] md:h-[30rem] 
                                 rounded-3xl bg-gradient-to-r from-yellow-400 via-pink-400 to-blue-400
                                 opacity-50 blur-2xl animate-[pulse_5s_ease-in-out_infinite]">
                 </div>
@@ -60,9 +60,9 @@ export default function About() {
               {/* Foto */}
               <div className="transition-transform duration-300 hover:scale-[1.03] relative z-10">
                 <img
-                  src="/profile.jpg"
+                  src="/profile2.jpg"
                   alt="Profile"
-                  className="w-72 h-[28rem] md:w-[22rem] md:h-[32rem] 
+                  className="w-72 h-[22rem] md:w-[22rem] md:h-[26rem] 
                             rounded-3xl object-cover shadow-xl shadow-gray-300/60
                             border border-gray-200"
                 />
@@ -95,19 +95,19 @@ export default function About() {
               <div className="mt-9 grid grid-cols-1 sm:grid-cols-2 gap-4">
                 
                 <a
-                  href="/sertifikat.pdf"
+                  href="/Sertif_Hamzah_JWP.pdf"
                   download
                   className="flex items-center justify-center gap-2 text-sm px-4 py-3
-                             bg-white/30 backdrop-blur-md border border-gray-200
-                             rounded-xl shadow hover:shadow-lg hover:-translate-y-1 
-                             transition-all duration-200"
-                >
+                  bg-white/30 backdrop-blur-md border border-gray-200
+                  rounded-xl shadow hover:shadow-lg hover:-translate-y-1 
+                  transition-all duration-200"
+                  >
                   <i className="bi bi-award-fill text-blue-600"></i>
                   Sertifikat Junior Web Programmer
                 </a>
 
                 <a
-                  href="/sertifikat.pdf"
+                  href="/Sertif_Hamzah_TOEFL.pdf"
                   download
                   className="flex items-center justify-center gap-2 text-sm px-4 py-3
                              bg-white/30 backdrop-blur-md border border-gray-200

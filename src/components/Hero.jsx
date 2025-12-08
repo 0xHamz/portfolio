@@ -113,7 +113,7 @@ export default function Hero() {
     <div className="md:w-1/2 flex justify-center md:justify-end relative z-10">
       <div className="w-40 h-40 sm:w-48 sm:h-48 md:w-80 md:h-80 rounded-full bg-yellow-100 flex items-center justify-center relative">
         <img
-          src="/profile.jpg"
+          src="/profile2.jpg"
           alt="Hamzah Akbar Pratama"
           className="w-32 h-32 sm:w-40 sm:h-40 md:w-60 md:h-60 rounded-full object-cover shadow-lg border-4 border-white transition-transform duration-300 hover:scale-105"
         />

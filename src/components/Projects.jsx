@@ -9,7 +9,7 @@ const projects = [
     tech: ["Laravel", "Tailwind", "PostgreSQL"],
     image: "/p3.jpg",
     github: "https://github.com/username/ecommerce-ui",
-    demo: "https://ecommerce.vercel.app",
+    demo: "https://ibb.co.com/sJsyLzcP",
   },
   {
     title: "IoT Monitoring Dashboard",
@@ -26,6 +26,14 @@ const projects = [
     image: "/p2.jpg",
     github: "https://github.com/username/portfolio",
     demo: "https://portfolio.vercel.app",
+  },
+  {
+    title: "Bot Scanner Telegram",
+    description: "Bot Scanner mampu scan hitam-putih / berwarna. (dengan auto crop)",
+    tech: ["Python", "OpenCv", "python-telegram-bot", "FPDF", "Telegram Inline Keyboard", "Custom module: scan_engine"],
+    image: "/python.png",
+    github: "https://github.com/username/portfolio",
+    demo: "https://t.me/scandisini_bot",
   },
 ];
 
