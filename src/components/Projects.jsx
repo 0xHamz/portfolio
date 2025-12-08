@@ -25,7 +25,7 @@ const projects = [
     tech: ["React", "Tailwind", "Vite"],
     image: "/p2.jpg",
     github: "https://github.com/username/portfolio",
-    demo: "https://portfolio.vercel.app",
+    demo: "https://portfolio-577c.vercel.app/",
   },
   {
     title: "Bot Scanner Telegram",
