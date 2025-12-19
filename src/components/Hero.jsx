@@ -76,7 +76,7 @@ export default function Hero() {
       {/* SOCIAL ICONS */}
       <div className="flex justify-center md:justify-start gap-5 mt-5 text-gray-700 text-2xl">
         <a
-          href="https://github.com/0xHamz"
+          href="https://github.com/"
           target="_blank"
           className="hover:text-yellow-600 transition"
         >
